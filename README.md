@@ -3,5 +3,6 @@
 version 1.0
 
 author Yurii Kapustin
+licence: open
 
 
